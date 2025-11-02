@@ -1,0 +1,301 @@
+student_id,name,email,school,course,program_level,year_of_study,domicile,enrollment_status
+UoM000001,Mr Alex Lewis,mr.alex.lewis@student.manchester.ac.uk,School of Social Sciences,Sociology,Undergraduate,3,Home (UK),Part-time
+UoM000002,Ms Ava Jones,ms.ava.jones@student.manchester.ac.uk,School of Social Sciences,Chemistry,Undergraduate,3,International (Non-EU),Full-time
+UoM000003,Miss Sophia Clark,miss.sophia.clark@student.manchester.ac.uk,School of Social Sciences,Management,Postgraduate Taught,1,EU,Full-time
+UoM000004,Dr John Wilson,dr.john.wilson@student.manchester.ac.uk,School of Engineering,Psychology,Undergraduate,1,Home (UK),Full-time
+UoM000005,Mrs Emma Smith,mrs.emma.smith@student.manchester.ac.uk,School of Health Sciences,Modern Languages,Postgraduate Taught,3,International (Non-EU),Full-time
+UoM000006,Mr Noah Jones,mr.noah.jones@student.manchester.ac.uk,School of Medical Sciences,Physiotherapy,Undergraduate,3,International (Non-EU),Part-time
+UoM000007,Dr Henry Smith,dr.henry.smith@student.manchester.ac.uk,School of Computer Science,Business Analytics,Postgraduate Taught,3,EU,Full-time
+UoM000008,Dr Noah Lewis,dr.noah.lewis@student.manchester.ac.uk,School of Social Sciences,Sociology,Undergraduate,4,International (Non-EU),Part-time
+UoM000009,Dr Mia Jones,dr.mia.jones@student.manchester.ac.uk,Manchester Business School,Finance,Postgraduate Taught,4,EU,Part-time
+UoM000010,Mrs Ella Taylor,mrs.ella.taylor@student.manchester.ac.uk,Manchester Business School,Mathematics,Undergraduate,2,International (Non-EU),Full-time
+UoM000011,Mr Olivia Lewis,mr.olivia.lewis@student.manchester.ac.uk,School of Natural Sciences,Computer Science,Postgraduate Taught,4,Home (UK),Part-time
+UoM000012,Mrs James Taylor,mrs.james.taylor@student.manchester.ac.uk,School of Social Sciences,Accounting,Undergraduate,3,Home (UK),Full-time
+UoM000013,Miss Noah Walker,miss.noah.walker@student.manchester.ac.uk,Manchester Business School,Physiotherapy,Postgraduate Taught,4,EU,Full-time
+UoM000014,Ms Sophia Johnson,,School of Medical Sciences,Law,Postgraduate Taught,1,International (Non-EU),Part-time
+UoM000015,Mrs Sophia Davies,mrs.sophia.davies@student.manchester.ac.uk,School of Health Sciences,Modern Languages,Postgraduate Taught,3,EU,Part-time
+UoM000016,Ms Henry Taylor,ms.henry.taylor@student.manchester.ac.uk,School of Health Sciences,General Studies,Postgraduate Taught,4,EU,Part-time
+UoM000017,Mr Charlotte Roberts,mr.charlotte.roberts@student.manchester.ac.uk,School of Computer Science,General Studies,Postgraduate Taught,3,International (Non-EU),Full-time
+UoM000018,Mr Lucas Johnson,mr.lucas.johnson@student.manchester.ac.uk,Manchester Business School,Mechanical Engineering,Undergraduate,1,Home (UK),Full-time
+UoM000019,Dr Isla Hall,dr.isla.hall@student.manchester.ac.uk,"Sch. of Arts, Languages and Cultures (SALC)",Computer Science,Postgraduate Taught,1,Home (UK),Part-time
+UoM000020,Dr Amelia Wilson,dr.amelia.wilson@student.manchester.ac.uk,Manchester Business School,Mechanical Engineering,Undergraduate,4,EU,Part-time
+UoM000021,Miss John Smith,miss.john.smith@student.manchester.ac.uk,"School of Environment, Education and Development",Biomedical Sciences,Postgraduate Taught,3,EU,Full-time
+UoM000022,Miss Isla Johnson,miss.isla.johnson@student.manchester.ac.uk,School of Natural Sciences,Sociology,Undergraduate,2,EU,Part-time
+UoM000023,Miss Sophia Evans,miss.sophia.evans@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Finance,Postgraduate Taught,1,Home (UK),Part-time
+UoM000024,Ms Charlotte Clark,ms.charlotte.clark@student.manchester.ac.uk,"School of Environment, Education and Development",History,Postgraduate Taught,2,Home (UK),Part-time
+UoM000025,Ms Olivia Davies,ms.olivia.davies@student.manchester.ac.uk,School of Natural Sciences,Chemistry,Undergraduate,4,Home (UK),Part-time
+UoM000026,Ms Noah Clark,ms.noah.clark@student.manchester.ac.uk,School of Social Sciences,Business Analytics,Postgraduate Taught,1,EU,Part-time
+UoM000027,Ms John Wilson,ms.john.wilson@student.manchester.ac.uk,School of Social Sciences,Physiotherapy,Undergraduate,2,EU,Full-time
+UoM000028,Miss Harry Lewis,miss.harry.lewis@student.manchester.ac.uk,School of Computer Science,Dentistry,Undergraduate,1,Home (UK),Part-time
+UoM000029,Miss Olivia Thomas,miss.olivia.thomas@student.manchester.ac.uk,School of Natural Sciences,Physics,Postgraduate Taught,2,EU,Part-time
+UoM000030,Mrs Ethan Allen,mrs.ethan.allen@student.manchester.ac.uk,School of Computer Science,Law,Postgraduate Taught,3,Home (UK),Full-time
+UoM000031,Dr Ava Clark,dr.ava.clark@student.manchester.ac.uk,School of Medical Sciences,Modern Languages,Undergraduate,3,Home (UK),Part-time
+UoM000032,Ms Emma Jones,ms.emma.jones@student.manchester.ac.uk,Manchester Business School,Business Analytics,Postgraduate Taught,4,Home (UK),Full-time
+UoM000033,Mr James Evans,mr.james.evans@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Physics,Postgraduate Taught,1,International (Non-EU),Full-time
+UoM000034,Ms John Jones,ms.john.jones@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Medicine (MBChB),Postgraduate Taught,2,International (Non-EU),Part-time
+UoM000035,Dr James Jones,dr.james.jones@student.manchester.ac.uk,School of Computer Science,Mechanical Engineering,Undergraduate,4,EU,Full-time
+UoM000036,Mrs Lucas Allen,mrs.lucas.allen@stduent.manchester.ac.uk,Manchester Business School,Law,Postgraduate Taught,3,International (Non-EU),Part-time
+UoM000037,Mrs Liam Taylor,mrs.liam.taylor@student.manchester.ac.uk,School of Health Sciences,History,Undergraduate,3,Home (UK),Full-time
+UoM000038,Miss Ava Lewis,miss.ava.lewis@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Chemistry,Undergraduate,4,EU,Part-time
+UoM000039,Dr Harry Taylor,dr.harry.taylor@student.manchester.ac.uk,School of Health Sciences,Modern Languages,Undergraduate,1,Home (UK),Part-time
+UoM000040,Dr Mia Allen,dr.mia.allen@student.manchester.ac.uk,"School of Environment, Education and Development",Mechanical Engineering,Undergraduate,2,Home (UK),Full-time
+UoM000041,Dr Lucas Davies,dr.lucas.davies@student.manchester.ac.uk,Manchester Business School,Psychology,Postgraduate Taught,3,EU,Part-time
+UoM000042,Miss Liam Roberts,miss.liam.roberts@student.manchester.ac.uk,School of Health Sciences,Physics,Postgraduate Taught,4,Home (UK),Full-time
+UoM000043,Mrs John Walker,mrs.john.walker@student.manchester.ac.uk,School of Medical Sciences,Modern Languages,Undergraduate,3,International (Non-EU),Part-time
+UoM000044,Mr Sophia Brown,mr.sophia.brown@student.manchester.ac.uk,Sch. of Natural Sciences,History,Undergraduate,3,EU,Full-time
+UoM000045,Miss Mia Wilson,miss.mia.wilson@student.manchester.ac.uk,School of Social Sciences,Dentistry,Undergraduate,2,International (Non-EU),Part-time
+UoM000046,Mr Lucas Evans,mr.lucas.evans@student.manchester.ac.uk,School of Social Sciences,Biomedical Sciences,Undergraduate,1,International (Non-EU),Full-time
+UoM000047,Dr Charlotte Roberts,dr.charlotte.roberts@student.manchester.ac.uk,School of Computer Science,Medicine (MBChB),Postgraduate Taught,1,EU,Part-time
+UoM000048,Ms Harry Hall,ms.harry.hall@student.manchester.ac.uk,School of Medical Sciences,Law,Undergraduate,2,Home (UK),Part-time
+UoM000049,Mr Sophia Clark,mr.sophia.clark@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Finance,Undergraduate,4,International (Non-EU),Full-time
+UoM000050,Dr Ethan Walker,dr.ethan.walker@student.manchester.ac.uk,School of Computer Science,Dentistry,Undergraduate,4,International (Non-EU),Full-time
+UoM000051,Ms Sophia Taylor,ms.sophia.taylor@student.manchester.ac.uk,School of Computer Science,Business Analytics,Undergraduate,1,International (Non-EU),Full-time
+UoM000052,Mrs Olivia Thomas,mrs.olivia.thomas@student.manchester.ac.uk,School of Social Sciences,Chemistry,Undergraduate,3,EU,Part-time
+UoM000053,Mr Ethan Roberts,mr.ethan.roberts@student.manchester.ac.uk,Manchester Business School,Sociology,Postgraduate Taught,3,Home (UK),Part-time
+UoM000054,Miss Grace Allen,miss.grace.allen@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Mathematics,Postgraduate Taught,4,Home (UK),Full-time
+UoM000055,Mr Isla Hall,mr.isla.hall@student.manchester.ac.uk,School of Computer Science,History,Postgraduate Taught,2,Home ( UK ),Full-time
+UoM000056,Dr Henry Jones,dr.henry.jones@student.manchester.ac.uk,"Sch. of Arts, Languages and Cultures (SALC)",Physiotherapy,Postgraduate Taught,3,EU,Full-time
+UoM000057,Miss Amelia Walker,miss.amelia.walker@student.manchester.ac.uk,School of Natural Sciences,Management,Postgraduate Taught,4,Home (UK),Full-time
+UoM000058,Miss Harry Walker,miss.harry.walker@student.manchester.ac.uk,Manchester Business School,Management,Undergraduate,2,EU,Part-time
+UoM000059,Dr Alex Wilson,,"School of Environment, Education and Development",Sociology,Postgraduate Taught,1,EU,Full-time
+UoM000060,Ms Daniel Smith,ms.daniel.smith@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Biomedical Sciences,Undergraduate,2,EU,Part-time
+UoM000061,Mr Amelia Allen,mr.amelia.allen@student.manchester.ac.uk,School of Health Sciences,History,Postgraduate Taught,1,Home (UK),Part-time
+UoM000062,Ms Ava Smith,ms.ava.smith@student.manchester.ac.uk,School of Computer Science,History,Postgraduate Taught,4,Home (UK),Full-time
+UoM000063,Miss Ella Johnson,miss.ella.johnson@student.manchester.ac.uk,School of Health Sciences,Dentistry,Postgraduate Taught,2,International (Non-EU),Full-time
+UoM000064,Mr Daniel Hall,mr.daniel.hall@student.manchester.ac.uk,Manchester Business School,Law,Postgraduate Taught,4,Home (UK),Full-time
+UoM000065,Mr Harry Walker,mr.harry.walker@student.manchester.ac.uk,School of Medical Sciences,Physiotherapy,Undergraduate,1,Home (UK),Full-time
+UoM000066,Miss Liam Clark,miss.liam.clark@student.manchester.ac.uk,School of Health Sciences,Physics,Postgraduate Taught,3,International (Non-EU),Part-time
+UoM000067,Mrs Harry Brown,mrs.harry.brown@student.manchester.ac.uk,School of Computer Science,Chemistry,Undergraduate,3,International (Non-EU),Full-time
+UoM000068,Ms Grace Hall,ms.grace.hall@student.manchester.ac.uk,School of Computer Science,Modern Languages,Postgraduate Taught,1,Home (UK),Full-time
+UoM000069,Dr Mia Jones,dr.mia.jones@student.manchester.ac.uk,School of Social Sciences,Law,Postgraduate Taught,3,EU,Part-time
+UoM000070,Dr Noah Lewis,dr.noah.lewis@student.manchester.ac.uk,Manchester Business School,Mathematics,Postgraduate Taught,3,International (Non-EU),Full-time
+UoM000071,Ms Lucas Clark,ms.lucas.clark@student.manchester.ac.uk,School of Social Sciences,Psychology,Undergraduate,2,Home (UK),Part-time
+UoM000072,Ms Charlotte Allen,ms.charlotte.allen@student.manchester.ac.uk,School of Computer Science,Physiotherapy,Undergraduate,2,Home (UK),Part-time
+UoM000073,Dr Charlotte Johnson,dr.charlotte.johnson@student.manchester.ac.uk,School of Natural Sciences,Mathematics,Postgraduate Taught,3,International (Non-EU),Part-time
+UoM000074,Miss Ava Johnson,miss.ava.johnson@student.manchester.ac.uk,School of Computer Science,History,Postgraduate Taught,2,EU,Part-time
+UoM000075,Ms Alex Wilson,ms.alex.wilson@student.manchester.ac.uk,"School of Environment, Education and Development",Biomedical Sciences,Undergraduate,1,EU,Part-time
+UoM000076,Dr Ava Wilson,dr.ava.wilson@student.manchester.ac.uk,"School of Environment, Education and Development",Mathematics,Undergraduate,2,Home (UK),Part-time
+UoM000077,Miss Alex Johnson,miss.alex.johnson@student.manchester.ac.uk,School of Social Sciences,Mechanical Engineering,Postgraduate Taught,2,International (Non-EU),Part-time
+UoM000078,Mr Ava Johnson,mr.ava.johnson@student.manchester.ac.uk,School of Social Sciences,Management,Postgraduate Taught,2,International (Non-EU),Part-time
+UoM000079,Mr James Johnson,mr.james.johnson@student.manchester.ac.uk,Manchester Business School,Modern Languages,Undergraduate,4,International (Non-EU),Part-time
+UoM000080,Dr Ava Taylor,dr.ava.taylor@student.manchester.ac.uk,School of Medical Sciences,Accounting,Postgraduate Taught,1,EU,Part-time
+UoM000081,Mrs Noah Roberts,mrs.noah.roberts@student.manchester.ac.uk,School of Natural Sciences,Chemistry,Undergraduate,3,EU,Full-time
+UoM000082,Miss Ella Wilson,miss.ella.wilson@student.manchester.ac.uk,School of Engineering,Chemistry,Postgraduate Taught,3,EU,Part-time
+UoM000083,Mrs Ava Walker,mrs.ava.walker@student.manchester.ac.uk,School of Computer Science,Dentistry,Postgraduate Taught,4,International (Non-EU),Part-time
+UoM000084,Mrs Mia Jones,mrs.mia.jones@student.manchester.ac.uk,School of Medical Sciences,Modern Languages,Undergraduate,2,Home (UK),Full-time
+UoM000085,Mr Sophia Clark,mr.sophia.clark@student.manchester.ac.uk,Manchester Business School,History,Undergraduate,1,EU,Part-time
+UoM000086,Mrs Amelia Evans,mrs.amelia.evans@student.manchester.ac.uk,"Sch. of Arts, Languages and Cultures (SALC)",Modern Languages,Postgraduate Taught,1,International (Non-EU),Part-time
+UoM000087,Mrs Charlotte Hall,mrs.charlotte.hall@student.manchester.ac.uk,School of Medical Sciences,Law,Undergraduate,3,International (Non-EU),Part-time
+UoM000088,Mr Sophia Smith,mr.sophia.smith@student.manchester.ac.uk,School of Computer Science,Modern Languages,Postgraduate Taught,4,Home (UK),Full-time
+UoM000089,Mrs James Walker,mrs.james.walker@student.manchester.ac.uk,School of Medical Sciences,Management,Undergraduate,4,Home (UK),Full-time
+UoM000090,Mr Ava Jones,mr.ava.jones@student.manchester.ac.uk,School of Health Sciences,Physics,Undergraduate,4,International (Non-EU),Full-time
+UoM000091,Miss Harry Thomas,miss.harry.thomas@student.manchester.ac.uk,School of Social Sciences,Mechanical Engineering,Undergraduate,4,Home (UK),Full-time
+UoM000092,Miss Mia Brown,miss.mia.brown@student.manchester.ac.uk,"School of Environment, Education and Development",Accounting,Undergraduate,1,EU,Part-time
+UoM000093,Ms Charlotte Jones,ms.charlotte.jones@stduent.manchester.ac.uk,School of Social Sciences,History,Postgraduate Taught,2,International (Non-EU),Part-time
+UoM000094,Mr Charlotte Walker,mr.charlotte.walker@student.manchester.ac.uk,School of Computer Science,Chemistry,Postgraduate Taught,3,EU,Part-time
+UoM000095,Dr Sophia Smith,dr.sophia.smith@student.manchester.ac.uk,School of Health Sciences,Business Analytics,Undergraduate,1,International (Non-EU),Full-time
+UoM000096,Dr Alex Johnson,dr.alex.johnson@student.manchester.ac.uk,School of Natural Sciences,Accounting,Postgraduate Taught,4,EU,Full-time
+UoM000097,Miss Olivia Evans,miss.olivia.evans@student.manchester.ac.uk,School of Social Sciences,Medicine (MBChB),Postgraduate Taught,4,Home (UK),Part-time
+UoM000098,Mrs Daniel Jones,mrs.daniel.jones@student.manchester.ac.uk,Manchester Business School,Management,Postgraduate Taught,3,Home (UK),Full-time
+UoM000099,Mrs Emma Brown,mrs.emma.brown@student.manchester.ac.uk,School of Social Sciences,Finance,Postgraduate Taught,2,EU,Part-time
+UoM000100,Mrs Alex Evans,mrs.alex.evans@student.manchester.ac.uk,School of Engineering,Dentistry,Postgraduate Taught,2,International (Non-EU),Full-time
+UoM000101,Ms Charlotte Taylor,ms.charlotte.taylor@student.manchester.ac.uk,School of Natural Sciences,Physiotherapy,Postgraduate Taught,2,International (Non-EU),Part-time
+UoM000102,Mrs Harry Clark,mrs.harry.clark@student.manchester.ac.uk,School of Engineering,Psychology,Undergraduate,4,EU,Part-time
+UoM000103,Mrs Liam Jones,,School of Engineering,Accounting,Postgraduate Taught,1,EU,Part-time
+UoM000104,Ms Noah Smith,ms.noah.smith@student.manchester.ac.uk,Manchester Business School,Business Analytics,Undergraduate,1,Home (UK),Part-time
+UoM000105,Dr Harry Smith,dr.harry.smith@student.manchester.ac.uk,School of Health Sciences,Law,Postgraduate Taught,2,Home (UK),Part-time
+UoM000106,Ms Emma Smith,ms.emma.smith@student.manchester.ac.uk,School of Engineering,Accounting,Undergraduate,3,EU,Part-time
+UoM000107,Dr Daniel Roberts,dr.daniel.roberts@student.manchester.ac.uk,School of Natural Sciences,Psychology,Postgraduate Taught,2,EU,Full-time
+UoM000108,Dr Olivia Smith,,School of Social Sciences,Accounting,Postgraduate Taught,2,International (Non-EU),Part-time
+UoM000109,Dr John Hall,dr.john.hall@student.manchester.ac.uk,School of Computer Science,Dentistry,Postgraduate Taught,3,International (Non-EU),Full-time
+UoM000110,Miss John Wilson,miss.john.wilson@student.manchester.ac.uk,School of Natural Sciences,Finance,Undergraduate,2,EU,Full-time
+UoM000111,Mr Ava Evans,mr.ava.evans@student.manchester.ac.uk,"School of Environment, Education and Development",Physiotherapy,Postgraduate Taught,3,International (Non-EU),Part-time
+UoM000112,Mr Ella Jones,mr.ella.jones@student.manchester.ac.uk,School of Medical Sciences,Medicine (MBChB),Undergraduate,3,Home (UK),Full-time
+UoM000113,Dr Henry Smith,dr.henry.smith@student.manchester.ac.uk,School of Social Sciences,Mechanical Engineering,Undergraduate,1,International (Non-EU),Full-time
+UoM000114,Dr John Evans,dr.john.evans@student.manchester.ac.uk,Manchester Business School,Physiotherapy,Postgraduate Taught,3,Home ( UK ),Full-time
+UoM000115,Dr Ella Roberts,dr.ella.roberts@student.manchester.ac.uk,School of Engineering,Physiotherapy,Postgraduate Taught,2,Home (UK),Full-time
+UoM000116,Ms Ethan Jones,ms.ethan.jones@student.manchester.ac.uk,School of Computer Science,Law,Postgraduate Taught,3,Home (UK),Full-time
+UoM000117,Ms Ava Taylor,ms.ava.taylor@student.manchester.ac.uk,School of Engineering,Mechanical Engineering,Undergraduate,2,Home (UK),Full-time
+UoM000118,Mrs Liam Clark,mrs.liam.clark@student.manchester.ac.uk,Manchester Business School,Computer Science,Undergraduate,3,International (Non-EU),Part-time
+UoM000119,Ms Charlotte Davies,ms.charlotte.davies@student.manchester.ac.uk,School of Natural Sciences,History,Postgraduate Taught,1,International (Non-EU),Full-time
+UoM000120,Mr Alex Thomas,mr.alex.thomas@student.manchester.ac.uk,"School of Environment, Education and Development",Medicine (MBChB),Postgraduate Taught,2,Home (UK),Full-time
+UoM000121,Dr Ella Johnson,dr.ella.johnson@student.manchester.ac.uk,School of Medical Sciences,Physiotherapy,Postgraduate Taught,2,Home (UK),Full-time
+UoM000122,Mr Harry Jones,mr.harry.jones@student.manchester.ac.uk,"School of Environment, Education and Development",Medicine (MBChB),Undergraduate,2,International (Non-EU),Full-time
+UoM000123,Dr Ethan Brown,dr.ethan.brown@student.manchester.ac.uk,School of Social Sciences,Modern Languages,Undergraduate,3,International (Non-EU),Full-time
+UoM000124,Ms John Allen,ms.john.allen@student.manchester.ac.uk,School of Natural Sciences,Dentistry,Postgraduate Taught,1,Home (UK),Full-time
+UoM000125,Miss Amelia Taylor,miss.amelia.taylor@student.manchester.ac.uk,School of Medical Sciences,Psychology,Postgraduate Taught,1,International (Non-EU),Part-time
+UoM000126,Miss Charlotte Hall,miss.charlotte.hall@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Finance,Undergraduate,1,International (Non-EU),Part-time
+UoM000127,Dr Isla Wilson,dr.isla.wilson@student.manchester.ac.uk,"School of Environment, Education and Development",Medicine (MBChB),Postgraduate Taught,1,International (Non-EU),Full-time
+UoM000128,Dr Alex Clark,dr.alex.clark@student.manchester.ac.uk,Sch. of Engineering,Computer Science,Postgraduate Taught,3,International (Non-EU),Part-time
+UoM000129,Dr Isla Allen,dr.isla.allen@student.manchester.ac.uk,School of Social Sciences,Mechanical Engineering,Undergraduate,2,EU,Part-time
+UoM000130,Mr Liam Taylor,mr.liam.taylor@student.manchester.ac.uk,School of Social Sciences,Management,Undergraduate,4,EU,Full-time
+UoM000131,Mr Sophia Lewis,mr.sophia.lewis@student.manchester.ac.uk,School of Medical Sciences,Physiotherapy,Postgraduate Taught,1,EU,Full-time
+UoM000132,Dr Liam Taylor,dr.liam.taylor@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Mathematics,Postgraduate Taught,4,Home (UK),Part-time
+UoM000133,Ms Henry Jones,ms.henry.jones@student.manchester.ac.uk,School of Computer Science,General Studies,Undergraduate,3,International (Non-EU),Full-time
+UoM000134,Ms Noah Clark,ms.noah.clark@student.manchester.ac.uk,"School of Environment, Education and Development",History,Undergraduate,3,EU,Full-time
+UoM000135,Ms Grace Thomas,ms.grace.thomas@student.manchester.ac.uk,School of Health Sciences,Business Analytics,Undergraduate,4,International (Non-EU),Part-time
+UoM000136,Ms Emma Johnson,ms.emma.johnson@student.manchester.ac.uk,School of Computer Science,Biomedical Sciences,Undergraduate,2,EU,Part-time
+UoM000137,Mrs Ethan Smith,mrs.ethan.smith@student.manchester.ac.uk,School of Social Sciences,Chemistry,Undergraduate,4,Home (UK),Full-time
+UoM000138,Mr James Walker,mr.james.walker@student.manchester.ac.uk,School of Social Sciences,Modern Languages,Postgraduate Taught,3,Home (UK),Part-time
+UoM000139,Miss Ethan Brown,miss.ethan.brown@student.manchester.ac.uk,Manchester Business School,General Studies,Undergraduate,4,EU,Full-time
+UoM000140,Mrs Harry Lewis,mrs.harry.lewis@student.manchester.ac.uk,School of Medical Sciences,Psychology,Undergraduate,1,Home (UK),Full-time
+UoM000141,Mrs Harry Smith,mrs.harry.smith@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",History,Postgraduate Taught,1,International (Non-EU),Full-time
+UoM000142,Mr John Allen,mr.john.allen@student.manchester.ac.uk,School of Health Sciences,Chemistry,Undergraduate,2,International (Non-EU),Full-time
+UoM000143,Miss Harry Smith,miss.harry.smith@student.manchester.ac.uk,School of Computer Science,General Studies,Postgraduate Taught,4,Home (UK),Full-time
+UoM000144,Ms Ella Roberts,ms.ella.roberts@stduent.manchester.ac.uk,"School of Environment, Education and Development",Dentistry,Undergraduate,4,International (Non-EU),Full-time
+UoM000145,Miss Mia Brown,miss.mia.brown@student.manchester.ac.uk,School of Medical Sciences,Management,Undergraduate,4,EU,Part-time
+UoM000146,Mr Isla Davies,mr.isla.davies@student.manchester.ac.uk,"School of Environment, Education and Development",General Studies,Undergraduate,4,EU,Part-time
+UoM000147,Mr Amelia Jones,mr.amelia.jones@student.manchester.ac.uk,School of Natural Sciences,Sociology,Undergraduate,2,EU,Part-time
+UoM000148,Miss Sophia Davies,miss.sophia.davies@student.manchester.ac.uk,Manchester Business School,Chemistry,Postgraduate Taught,3,International (Non-EU),Part-time
+UoM000149,Dr Mia Wilson,dr.mia.wilson@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Medicine (MBChB),Undergraduate,2,EU,Full-time
+UoM000150,Miss Ava Hall,miss.ava.hall@stduent.manchester.ac.uk,Manchester Business School,Management,Postgraduate Taught,3,Home (UK),Part-time
+UoM000151,Miss Olivia Allen,miss.olivia.allen@student.manchester.ac.uk,School of Social Sciences,Biomedical Sciences,Postgraduate Taught,3,EU,Part-time
+UoM000152,Mrs Alex Brown,mrs.alex.brown@student.manchester.ac.uk,Manchester Business School,Physics,Undergraduate,3,International (Non-EU),Part-time
+UoM000153,Ms Mia Walker,ms.mia.walker@student.manchester.ac.uk,School of Health Sciences,Mathematics,Postgraduate Taught,4,International (Non-EU),Full-time
+UoM000154,Miss Ethan Brown,miss.ethan.brown@student.manchester.ac.uk,School of Social Sciences,History,Postgraduate Taught,2,EU,Full-time
+UoM000155,Mr Lucas Hall,mr.lucas.hall@student.manchester.ac.uk,School of Computer Science,Biomedical Sciences,Postgraduate Taught,3,Home (UK),Part-time
+UoM000156,Mr Daniel Jones,mr.daniel.jones@student.manchester.ac.uk,"School of Environment, Education and Development",Chemistry,Undergraduate,1,Home (UK),Full-time
+UoM000157,Miss Charlotte Davies,miss.charlotte.davies@student.manchester.ac.uk,School of Computer Science,Business Analytics,Undergraduate,3,Home (UK),Full-time
+UoM000158,Ms Ava Jones,ms.ava.jones@student.manchester.ac.uk,School of Natural Sciences,Business Analytics,Postgraduate Taught,2,International (Non-EU),Full-time
+UoM000159,Mr Noah Evans,mr.noah.evans@student.manchester.ac.uk,School of Social Sciences,Finance,Postgraduate Taught,4,Home (UK),Part-time
+UoM000160,Ms Ethan Hall,ms.ethan.hall@student.manchester.ac.uk,School of Social Sciences,Physiotherapy,Undergraduate,1,International (Non-EU),Part-time
+UoM000161,Mr Ethan Davies,mr.ethan.davies@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Business Analytics,Postgraduate Taught,3,EU,Part-time
+UoM000162,Dr Lucas Clark,dr.lucas.clark@student.manchester.ac.uk,School of Social Sciences,Physiotherapy,Postgraduate Taught,4,EU,Part-time
+UoM000163,Dr James Smith,dr.james.smith@student.manchester.ac.uk,"School of Environment, Education and Development",Mechanical Engineering,Postgraduate Taught,2,International (Non-EU),Full-time
+UoM000164,Mr Ethan Brown,mr.ethan.brown@student.manchester.ac.uk,School of Health Sciences,Psychology,Postgraduate Taught,2,International (Non-EU),Full-time
+UoM000165,Dr Ethan Smith,dr.ethan.smith@student.manchester.ac.uk,School of Natural Sciences,Law,Postgraduate Taught,1,EU,Full-time
+UoM000166,Mr Henry Evans,mr.henry.evans@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Finance,Postgraduate Taught,1,EU,Full-time
+UoM000167,Ms James Evans,ms.james.evans@student.manchester.ac.uk,"School of Environment, Education and Development",Physics,Undergraduate,3,International (Non-EU),Part-time
+UoM000168,Dr Grace Johnson,dr.grace.johnson@student.manchester.ac.uk,School of Health Sciences,General Studies,Undergraduate,4,EU,Part-time
+UoM000169,Mrs Ella Jones,mrs.ella.jones@student.manchester.ac.uk,Manchester Business School,Sociology,Undergraduate,4,EU,Part-time
+UoM000170,Ms Emma Lewis,ms.emma.lewis@student.manchester.ac.uk,School of Computer Science,Chemistry,Postgraduate Taught,2,Home (UK),Full-time
+UoM000171,Mrs Alex Roberts,mrs.alex.roberts@student.manchester.ac.uk,School of Natural Sciences,General Studies,Undergraduate,2,Home (UK),Full-time
+UoM000172,Dr Noah Davies,dr.noah.davies@student.manchester.ac.uk,School of Engineering,Mathematics,Postgraduate Taught,3,EU,Full-time
+UoM000173,Mrs John Clark,mrs.john.clark@student.manchester.ac.uk,"School of Environment, Education and Development",History,Postgraduate Taught,3,EU,Full-time
+UoM000174,Ms Henry Davies,ms.henry.davies@student.manchester.ac.uk,School of Computer Science,History,Undergraduate,2,Home (UK),Part-time
+UoM000175,Mr Isla Roberts,mr.isla.roberts@student.manchester.ac.uk,School of Medical Sciences,Law,Undergraduate,2,EU,Part-time
+UoM000176,Ms Mia Davies,ms.mia.davies@student.manchester.ac.uk,School of Computer Science,Accounting,Postgraduate Taught,4,International (Non-EU),Full-time
+UoM000177,Mrs Isla Roberts,mrs.isla.roberts@student.manchester.ac.uk,School of Computer Science,Mathematics,Undergraduate,4,EU,Full-time
+UoM000178,Miss Noah Evans,miss.noah.evans@student.manchester.ac.uk,School of Social Sciences,Chemistry,Undergraduate,4,EU,Part-time
+UoM000179,Mrs Olivia Wilson,mrs.olivia.wilson@student.manchester.ac.uk,School of Health Sciences,Dentistry,Postgraduate Taught,3,International (Non-EU),Full-time
+UoM000180,Dr Isla Evans,dr.isla.evans@student.manchester.ac.uk,School of Social Sciences,Mathematics,Postgraduate Taught,4,Home (UK),Full-time
+UoM000181,Dr Alex Taylor,dr.alex.taylor@student.manchester.ac.uk,"School of Environment, Education and Development",Finance,Undergraduate,1,EU,Part-time
+UoM000182,Ms Noah Evans,ms.noah.evans@student.manchester.ac.uk,Sch. of Social Sciences,Chemistry,Postgraduate Taught,1,Home (UK),Full-time
+UoM000183,Dr Henry Clark,dr.henry.clark@student.manchester.ac.uk,School of Engineering,Physics,Undergraduate,4,Home (UK),Full-time
+UoM000184,Ms Charlotte Thomas,ms.charlotte.thomas@student.manchester.ac.uk,School of Engineering,Mathematics,Undergraduate,4,EU,Full-time
+UoM000185,Mrs Noah Roberts,mrs.noah.roberts@student.manchester.ac.uk,"Sch. of Environment, Education and Development",History,Postgraduate Taught,2,EU,Part-time
+UoM000186,Mrs Olivia Clark,mrs.olivia.clark@student.manchester.ac.uk,"School of Environment, Education and Development",Finance,Postgraduate Taught,2,Home (UK),Full-time
+UoM000187,Mr Isla Roberts,,School of Natural Sciences,Mathematics,Undergraduate,3,EU,Part-time
+UoM000188,Dr James Johnson,dr.james.johnson@student.manchester.ac.uk,School of Social Sciences,Finance,Postgraduate Taught,1,EU,Full-time
+UoM000189,Miss Isla Jones,miss.isla.jones@student.manchester.ac.uk,School of Engineering,Mechanical Engineering,Undergraduate,1,Home (UK),Full-time
+UoM000190,Miss Liam Smith,miss.liam.smith@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Modern Languages,Postgraduate Taught,3,Home (UK),Part-time
+UoM000191,Mr Ava Thomas,mr.ava.thomas@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Physiotherapy,Postgraduate Taught,4,International (Non-EU),Part-time
+UoM000192,Dr John Thomas,dr.john.thomas@student.manchester.ac.uk,School of Natural Sciences,Biomedical Sciences,Undergraduate,4,EU,Part-time
+UoM000193,Mrs Ella Jones,mrs.ella.jones@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Business Analytics,Postgraduate Taught,3,International (Non-EU),Full-time
+UoM000194,Mrs Daniel Evans,mrs.daniel.evans@student.manchester.ac.uk,School of Natural Sciences,Business Analytics,Undergraduate,1,Home (UK),Full-time
+UoM000195,Miss Liam Clark,miss.liam.clark@student.manchester.ac.uk,School of Medical Sciences,Business Analytics,Postgraduate Taught,1,EU,Part-time
+UoM000196,Mr Sophia Walker,mr.sophia.walker@student.manchester.ac.uk,School of Engineering,Business Analytics,Undergraduate,4,Home (UK),Full-time
+UoM000197,Mrs Ava Brown,mrs.ava.brown@student.manchester.ac.uk,School of Social Sciences,Mathematics,Undergraduate,2,EU,Full-time
+UoM000198,Dr Charlotte Smith,dr.charlotte.smith@student.manchester.ac.uk,School of Natural Sciences,History,Postgraduate Taught,3,EU,Part-time
+UoM000199,Dr Ava Allen,dr.ava.allen@student.manchester.ac.uk,School of Natural Sciences,Modern Languages,Undergraduate,3,International (Non-EU),Full-time
+UoM000200,Mr Charlotte Brown,mr.charlotte.brown@student.manchester.ac.uk,School of Health Sciences,Physiotherapy,Postgraduate Taught,4,Home (UK),Full-time
+UoM000201,Mrs Grace Roberts,mrs.grace.roberts@student.manchester.ac.uk,School of Social Sciences,Law,Undergraduate,3,EU,Part-time
+UoM000202,Dr James Walker,dr.james.walker@stduent.manchester.ac.uk,School of Medical Sciences,Management,Undergraduate,1,International (Non-EU),Part-time
+UoM000203,Mrs Henry Hall,mrs.henry.hall@student.manchester.ac.uk,School of Health Sciences,Psychology,Undergraduate,4,Home (UK),Part-time
+UoM000204,Dr Mia Hall,dr.mia.hall@student.manchester.ac.uk,"School of Environment, Education and Development",Law,Postgraduate Taught,1,International (Non-EU),Full-time
+UoM000205,Dr Charlotte Allen,dr.charlotte.allen@student.manchester.ac.uk,School of Engineering,Law,Postgraduate Taught,2,Home (UK),Part-time
+UoM000206,Miss Daniel Thomas,miss.daniel.thomas@student.manchester.ac.uk,Manchester Business School,Finance,Undergraduate,3,EU,Part-time
+UoM000207,Ms Ava Hall,ms.ava.hall@student.manchester.ac.uk,School of Social Sciences,History,Postgraduate Taught,3,International (Non-EU),Part-time
+UoM000208,Ms Grace Thomas,ms.grace.thomas@student.manchester.ac.uk,Manchester Business School,Mathematics,Postgraduate Taught,1,International (Non-EU),Full-time
+UoM000209,Miss Ethan Thomas,miss.ethan.thomas@student.manchester.ac.uk,"School of Environment, Education and Development",Modern Languages,Undergraduate,4,EU,Part-time
+UoM000210,Mr Isla Jones,mr.isla.jones@student.manchester.ac.uk,School of Social Sciences,Mathematics,Undergraduate,4,Home (UK),Part-time
+UoM000211,Ms James Davies,ms.james.davies@student.manchester.ac.uk,School of Medical Sciences,Management,Undergraduate,3,EU,Part-time
+UoM000212,Dr John Brown,dr.john.brown@student.manchester.ac.uk,School of Health Sciences,Sociology,Postgraduate Taught,1,International (Non-EU),Full-time
+UoM000213,Miss Ava Evans,miss.ava.evans@student.manchester.ac.uk,School of Natural Sciences,Sociology,Undergraduate,2,EU,Part-time
+UoM000214,Miss Noah Johnson,miss.noah.johnson@student.manchester.ac.uk,School of Health Sciences,Modern Languages,Undergraduate,1,International (Non-EU),Full-time
+UoM000215,Mrs Mia Davies,mrs.mia.davies@student.manchester.ac.uk,Manchester Business Sch.,History,Postgraduate Taught,4,EU,Part-time
+UoM000216,Dr Charlotte Evans,dr.charlotte.evans@student.manchester.ac.uk,School of Social Sciences,Psychology,Undergraduate,3,Home (UK),Full-time
+UoM000217,Mr Noah Hall,mr.noah.hall@student.manchester.ac.uk,School of Computer Science,General Studies,Postgraduate Taught,3,International (Non-EU),Full-time
+UoM000218,Mrs Lucas Allen,mrs.lucas.allen@student.manchester.ac.uk,School of Engineering,Accounting,Undergraduate,3,International (Non-EU),Full-time
+UoM000219,Dr Alex Hall,dr.alex.hall@student.manchester.ac.uk,School of Natural Sciences,Physiotherapy,Postgraduate Taught,2,Home (UK),Part-time
+UoM000220,Dr Lucas Thomas,dr.lucas.thomas@student.manchester.ac.uk,Manchester Business School,Biomedical Sciences,Undergraduate,2,EU,Full-time
+UoM000221,Mr Amelia Taylor,mr.amelia.taylor@student.manchester.ac.uk,School of Engineering,Dentistry,Undergraduate,4,Home ( UK ),Part-time
+UoM000222,Mrs Mia Roberts,mrs.mia.roberts@student.manchester.ac.uk,"School of Environment, Education and Development",History,Undergraduate,1,EU,Full-time
+UoM000223,Dr Henry Allen,dr.henry.allen@student.manchester.ac.uk,School of Natural Sciences,Modern Languages,Postgraduate Taught,1,Home (UK),Part-time
+UoM000224,Miss Daniel Jones,miss.daniel.jones@student.manchester.ac.uk,School of Engineering,Law,Postgraduate Taught,1,Home (UK),Part-time
+UoM000225,Ms Mia Thomas,,School of Social Sciences,Modern Languages,Undergraduate,2,International (Non-EU),Part-time
+UoM000226,Mr Lucas Davies,mr.lucas.davies@student.manchester.ac.uk,"School of Environment, Education and Development",History,Undergraduate,3,International (Non-EU),Full-time
+UoM000227,Mrs Olivia Hall,mrs.olivia.hall@student.manchester.ac.uk,School of Medical Sciences,Mechanical Engineering,Postgraduate Taught,4,EU,Full-time
+UoM000228,Mrs Liam Wilson,mrs.liam.wilson@student.manchester.ac.uk,Manchester Business School,Psychology,Undergraduate,4,Home (UK),Full-time
+UoM000229,Dr Alex Allen,dr.alex.allen@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Dentistry,Undergraduate,2,EU,Part-time
+UoM000230,Mrs Ella Wilson,mrs.ella.wilson@student.manchester.ac.uk,School of Computer Science,Mathematics,Undergraduate,2,Home (UK),Part-time
+UoM000231,Mr John Clark,mr.john.clark@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Law,Postgraduate Taught,3,Home (UK),Part-time
+UoM000232,Mrs Liam Hall,mrs.liam.hall@student.manchester.ac.uk,Manchester Business School,Law,Postgraduate Taught,3,International (Non-EU),Part-time
+UoM000233,Mrs Olivia Smith,mrs.olivia.smith@student.manchester.ac.uk,School of Natural Sciences,Medicine (MBChB),Undergraduate,2,Home (UK),Full-time
+UoM000234,Ms Lucas Davies,ms.lucas.davies@student.manchester.ac.uk,Manchester Business School,Mechanical Engineering,Postgraduate Taught,4,International (Non-EU),Full-time
+UoM000235,Miss Charlotte Davies,miss.charlotte.davies@student.manchester.ac.uk,Manchester Business School,Medicine (MBChB),Undergraduate,3,International (Non-EU),Full-time
+UoM000236,Ms Lucas Taylor,ms.lucas.taylor@student.manchester.ac.uk,School of Social Sciences,Computer Science,Postgraduate Taught,3,Home (UK),Full-time
+UoM000237,Mrs Ethan Hall,mrs.ethan.hall@stduent.manchester.ac.uk,School of Health Sciences,Mechanical Engineering,Undergraduate,4,Home (UK),Part-time
+UoM000238,Mr Daniel Smith,mr.daniel.smith@student.manchester.ac.uk,School of Computer Science,Sociology,Undergraduate,3,EU,Part-time
+UoM000239,Dr Emma Davies,dr.emma.davies@student.manchester.ac.uk,School of Medical Sciences,Finance,Postgraduate Taught,4,EU,Part-time
+UoM000240,Miss John Walker,miss.john.walker@student.manchester.ac.uk,School of Medical Sciences,Modern Languages,Undergraduate,1,EU,Full-time
+UoM000241,Mr Alex Jones,mr.alex.jones@student.manchester.ac.uk,School of Engineering,Medicine (MBChB),Undergraduate,3,International (Non-EU),Full-time
+UoM000242,Miss Alex Wilson,miss.alex.wilson@student.manchester.ac.uk,School of Medical Sciences,Computer Science,Postgraduate Taught,3,International (Non-EU),Full-time
+UoM000243,Miss Ava Brown,miss.ava.brown@student.manchester.ac.uk,School of Computer Science,Physiotherapy,Postgraduate Taught,1,International (Non-EU),Part-time
+UoM000244,Mrs Sophia Wilson,mrs.sophia.wilson@student.manchester.ac.uk,School of Engineering,Psychology,Undergraduate,4,International (Non-EU),Full-time
+UoM000245,Miss Charlotte Lewis,miss.charlotte.lewis@student.manchester.ac.uk,School of Engineering,Physics,Postgraduate Taught,3,International (Non-EU),Part-time
+UoM000246,Ms Amelia Brown,ms.amelia.brown@student.manchester.ac.uk,School of Natural Sciences,Business Analytics,Postgraduate Taught,1,International (Non-EU),Part-time
+UoM000247,Dr Henry Lewis,dr.henry.lewis@student.manchester.ac.uk,School of Health Sciences,Physiotherapy,Postgraduate Taught,4,Home (UK),Full-time
+UoM000248,Mr Olivia Taylor,mr.olivia.taylor@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Medicine (MBChB),Undergraduate,3,EU,Part-time
+UoM000249,Mr Ella Smith,mr.ella.smith@student.manchester.ac.uk,"School of Environment, Education and Development",Business Analytics,Postgraduate Taught,2,EU,Part-time
+UoM000250,Ms Ella Clark,ms.ella.clark@student.manchester.ac.uk,School of Natural Sciences,General Studies,Undergraduate,1,EU,Part-time
+UoM000251,Mrs Lucas Lewis,mrs.lucas.lewis@student.manchester.ac.uk,School of Health Sciences,Accounting,Postgraduate Taught,4,Home (UK),Full-time
+UoM000252,Miss John Wilson,miss.john.wilson@student.manchester.ac.uk,School of Health Sciences,Physics,Undergraduate,2,EU,Full-time
+UoM000253,Miss Sophia Lewis,miss.sophia.lewis@student.manchester.ac.uk,School of Health Sciences,Mathematics,Undergraduate,4,International (Non-EU),Full-time
+UoM000254,Ms Henry Walker,ms.henry.walker@student.manchester.ac.uk,Manchester Business School,Chemistry,Postgraduate Taught,2,Home (UK),Part-time
+UoM000255,Mr Ella Walker,mr.ella.walker@student.manchester.ac.uk,School of Natural Sciences,Finance,Undergraduate,2,Home (UK),Full-time
+UoM000256,Mr Amelia Roberts,mr.amelia.roberts@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Computer Science,Undergraduate,1,EU,Full-time
+UoM000257,Mrs Amelia Johnson,mrs.amelia.johnson@student.manchester.ac.uk,School of Social Sciences,Modern Languages,Postgraduate Taught,1,International (Non-EU),Part-time
+UoM000258,Dr James Smith,dr.james.smith@student.manchester.ac.uk,School of Health Sciences,Sociology,Postgraduate Taught,2,EU,Part-time
+UoM000259,Mrs Daniel Johnson,mrs.daniel.johnson@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Finance,Undergraduate,1,Home (UK),Part-time
+UoM000260,Mrs Amelia Clark,mrs.amelia.clark@student.manchester.ac.uk,School of Social Sciences,Psychology,Postgraduate Taught,4,EU,Part-time
+UoM000261,Mrs Liam Evans,mrs.liam.evans@student.manchester.ac.uk,School of Computer Science,Business Analytics,Postgraduate Taught,3,Home (UK),Full-time
+UoM000262,Miss Grace Clark,miss.grace.clark@student.manchester.ac.uk,School of Social Sciences,Management,Undergraduate,4,Home (UK),Full-time
+UoM000263,Ms Henry Walker,ms.henry.walker@student.manchester.ac.uk,School of Computer Science,Physiotherapy,Undergraduate,2,Home (UK),Full-time
+UoM000264,Dr Daniel Thomas,dr.daniel.thomas@student.manchester.ac.uk,School of Medical Sciences,Computer Science,Undergraduate,4,International (Non-EU),Part-time
+UoM000265,Mrs Ella Taylor,mrs.ella.taylor@student.manchester.ac.uk,School of Social Sciences,Management,Postgraduate Taught,2,International (Non-EU),Part-time
+UoM000266,Ms Ava Hall,ms.ava.hall@student.manchester.ac.uk,School of Computer Science,Business Analytics,Undergraduate,4,EU,Part-time
+UoM000267,Mr Ethan Allen,mr.ethan.allen@student.manchester.ac.uk,"School of Environment, Education and Development",Mechanical Engineering,Postgraduate Taught,4,EU,Part-time
+UoM000268,Mrs Ava Walker,mrs.ava.walker@student.manchester.ac.uk,School of Health Sciences,Chemistry,Undergraduate,1,EU,Part-time
+UoM000269,Mrs Ella Wilson,mrs.ella.wilson@student.manchester.ac.uk,Manchester Business School,Mathematics,Undergraduate,2,International (Non-EU),Full-time
+UoM000270,Mrs James Smith,mrs.james.smith@student.manchester.ac.uk,School of Social Sciences,Biomedical Sciences,Undergraduate,2,EU,Part-time
+UoM000271,Mrs James Brown,mrs.james.brown@student.manchester.ac.uk,School of Engineering,Chemistry,Undergraduate,3,International (Non-EU),Part-time
+UoM000272,Mrs Noah Davies,mrs.noah.davies@student.manchester.ac.uk,School of Computer Science,Mathematics,Postgraduate Taught,4,Home (UK),Full-time
+UoM000273,Ms James Taylor,ms.james.taylor@student.manchester.ac.uk,School of Natural Sciences,Mechanical Engineering,Postgraduate Taught,4,Home (UK),Part-time
+UoM000274,Dr Ethan Roberts,dr.ethan.roberts@student.manchester.ac.uk,School of Computer Science,Accounting,Postgraduate Taught,3,International (Non-EU),Full-time
+UoM000275,Mr Grace Jones,mr.grace.jones@student.manchester.ac.uk,Sch. of Social Sciences,General Studies,Postgraduate Taught,2,International (Non-EU),Part-time
+UoM000276,Mr Ava Lewis,mr.ava.lewis@student.manchester.ac.uk,School of Computer Science,History,Postgraduate Taught,4,Home (UK),Full-time
+UoM000277,Mrs Daniel Roberts,mrs.daniel.roberts@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Modern Languages,Undergraduate,3,International (Non-EU),Full-time
+UoM000278,Miss Daniel Clark,miss.daniel.clark@student.manchester.ac.uk,School of Natural Sciences,Mathematics,Undergraduate,3,Home (UK),Part-time
+UoM000279,Mrs Charlotte Walker,mrs.charlotte.walker@student.manchester.ac.uk,Sch. of Social Sciences,History,Postgraduate Taught,3,EU,Full-time
+UoM000280,Mr John Taylor,mr.john.taylor@stduent.manchester.ac.uk,Manchester Business School,Sociology,Postgraduate Taught,4,Home (UK),Part-time
+UoM000281,Miss Lucas Lewis,miss.lucas.lewis@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Psychology,Undergraduate,2,Home (UK),Part-time
+UoM000282,Miss Isla Clark,miss.isla.clark@stduent.manchester.ac.uk,School of Natural Sciences,Biomedical Sciences,Postgraduate Taught,2,EU,Part-time
+UoM000283,Dr Amelia Thomas,dr.amelia.thomas@student.manchester.ac.uk,School of Engineering,General Studies,Postgraduate Taught,3,International (Non-EU),Part-time
+UoM000284,Dr Grace Davies,dr.grace.davies@student.manchester.ac.uk,School of Computer Science,Sociology,Undergraduate,3,EU,Part-time
+UoM000285,Mrs Harry Davies,mrs.harry.davies@student.manchester.ac.uk,School of Computer Science,Management,Postgraduate Taught,2,Home (UK),Part-time
+UoM000286,Ms Charlotte Taylor,ms.charlotte.taylor@student.manchester.ac.uk,School of Medical Sciences,Dentistry,Postgraduate Taught,3,Home (UK),Part-time
+UoM000287,Ms Ethan Jones,ms.ethan.jones@student.manchester.ac.uk,School of Natural Sciences,Physics,Postgraduate Taught,3,Home (UK),Full-time
+UoM000288,Mr Noah Davies,mr.noah.davies@student.manchester.ac.uk,School of Computer Science,Management,Postgraduate Taught,2,Home (UK),Part-time
+UoM000289,Mr Harry Walker,mr.harry.walker@stduent.manchester.ac.uk,School of Medical Sciences,Medicine (MBChB),Postgraduate Taught,4,Home (UK),Part-time
+UoM000290,Miss Noah Jones,miss.noah.jones@student.manchester.ac.uk,School of Medical Sciences,Accounting,Postgraduate Taught,3,EU,Full-time
+UoM000291,Mrs Ethan Lewis,mrs.ethan.lewis@student.manchester.ac.uk,School of Social Sciences,Sociology,Undergraduate,4,Home (UK),Part-time
+UoM000292,Dr Grace Wilson,dr.grace.wilson@student.manchester.ac.uk,School of Computer Science,Accounting,Postgraduate Taught,3,International (Non-EU),Part-time
+UoM000293,Ms Sophia Hall,ms.sophia.hall@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Physiotherapy,Postgraduate Taught,3,EU,Full-time
+UoM000294,Miss Isla Jones,miss.isla.jones@student.manchester.ac.uk,School of Engineering,Mechanical Engineering,Postgraduate Taught,3,EU,Part-time
+UoM000295,Ms Olivia Taylor,ms.olivia.taylor@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Sociology,Postgraduate Taught,1,EU,Part-time
+UoM000296,Mr Harry Brown,mr.harry.brown@student.manchester.ac.uk,"School of Arts, Languages and Cultures (SALC)",Finance,Undergraduate,4,Home (UK),Part-time
+UoM000297,Ms Emma Smith,ms.emma.smith@student.manchester.ac.uk,School of Computer Science,History,Postgraduate Taught,4,Home (UK),Part-time
+UoM000298,Dr Isla Lewis,dr.isla.lewis@student.manchester.ac.uk,School of Health Sciences,Medicine (MBChB),Undergraduate,3,EU,Full-time
+UoM000299,Miss Daniel Johnson,miss.daniel.johnson@student.manchester.ac.uk,Manchester Business School,Biomedical Sciences,Postgraduate Taught,2,Home (UK),Part-time
+UoM000300,Mr Ella Taylor,mr.ella.taylor@student.manchester.ac.uk,School of Medical Sciences,Mathematics,Undergraduate,3,International (Non-EU),Part-time
