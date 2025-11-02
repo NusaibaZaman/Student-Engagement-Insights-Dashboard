@@ -1,4 +1,4 @@
-#Student Engagement Insights Dashboard
+# Student Engagement Insights Dashboard
 
 Generated Data Sources: 
 - `student_population.csv` — Student demographics and academic details  
