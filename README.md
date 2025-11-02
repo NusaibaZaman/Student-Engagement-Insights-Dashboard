@@ -10,14 +10,14 @@ Tools Used: Power BI | Power Query | DAX | Excel
 
 ---
 
-##Project Overview
+##  Project Overview
 This project integrates multiple datasets to analyse student engagement at the University of Manchester Students’ Union. It connects data on student demographics, society activity, satisfaction levels, and voting participation in the annual Students’ Union election.
 
 Mock datasets containing 300 students were generated to represent realistic university data, including incomplete and inconsistent values to allow for practical data cleaning and modelling in Power BI. The datasets were modelled using star schema with Student ID as the bridging attribute.
 
 ---
 
-##Key Insights
+## Key Insights
 
 | Metric | Value | Interpretation |
 |---------|--------|----------------|
@@ -33,7 +33,7 @@ Mock datasets containing 300 students were generated to represent realistic univ
 
 ---
 
-##Summary
+## Summary
 This analysis highlights how academic background, social involvement and satisfaction influence student engagement at the University of Manchester. While society membership is linked with higher voting rates, overall election participation remains just below 50%, suggesting opportunities for the Students’ Union to increase voter awareness and involvement.
 
 By integrating and visualising multiple datasets in Power BI, this project demonstrates the value of data-driven insights for improving student participation and community engagement.
